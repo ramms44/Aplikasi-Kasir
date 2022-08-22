@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778453037142",
+    "project_id": "panel-4b7d1",
+    "storage_bucket": "panel-4b7d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778453037142:android:51ad0adb11c23458d40bf7",
+        "android_client_info": {
+          "package_name": "com.example.karyawan_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778453037142-ki4mtkd19k9nfrg25mg22naifptgd10k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrxyjc7M2kRYM2qd-2h-dzwzAjkwQeXVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778453037142-ki4mtkd19k9nfrg25mg22naifptgd10k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
